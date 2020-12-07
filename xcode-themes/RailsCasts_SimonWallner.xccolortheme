@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.9911 0.556623 0.495108 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>FiraCode-Light - 14.0</string>
+	<string>FiraCode-Light - 17.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.974914 0.974885 0.974901 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>FiraCode-Light - 14.0</string>
+	<string>FiraCode-Light - 17.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.231868 0.659275 0.614024 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>FiraCode-Medium - 14.0</string>
+	<string>FiraCode-Medium - 17.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.829392 0.441611 0.0760673 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>FiraCode-Medium - 14.0</string>
+	<string>FiraCode-Medium - 17.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.825171 0.827151 0.652359 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>FiraCode-Light - 14.0</string>
+	<string>FiraCode-Light - 17.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.106199 0.099614 0.103388 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -33,7 +33,7 @@
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
-	<integer>2</integer>
+	<integer>5</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -41,37 +41,37 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.269134 0.269151 0.269125 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>Monaco - 13.0</string>
+	<string>Monaco - 16.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.8827 0.857458 0.835065 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNS-RegularItalic - 13.0</string>
+	<string>.SFNS-RegularItalic - 15.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>0.8827 0.857458 0.835065 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.597477 0.716238 0.311402 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNS-Regular - 13.0</string>
+	<string>.SFNS-Regular - 15.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.8827 0.857458 0.835065 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNS-Regular - 13.0</string>
+	<string>.SFNS-Regular - 15.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.8827 0.857458 0.835065 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 18.2</string>
+	<string>.SFNS-Regular - 21.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.8827 0.857458 0.835065 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 31.2</string>
+	<string>.SFNS-Regular - 36.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.8827 0.857458 0.835065 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 23.4</string>
+	<string>.SFNS-Regular - 27.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.8827 0.857458 0.835065 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 13.0</string>
+	<string>.SFNS-Bold - 15.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -158,59 +158,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Medium - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Medium - 16.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>FiraCode-Medium - 13.0</string>
+		<string>FiraCode-Medium - 16.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>FiraCode-Medium - 13.0</string>
+		<string>FiraCode-Medium - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Regular - 16.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>FiraCode-Bold - 13.0</string>
+		<string>FiraCode-Bold - 16.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>FiraCode-Medium - 13.0</string>
+		<string>FiraCode-Medium - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Light - 13.0</string>
+		<string>FiraCode-Light - 16.0</string>
 	</dict>
 </dict>
 </plist>
